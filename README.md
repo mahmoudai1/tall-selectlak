@@ -1,2 +1,4 @@
-# tall-selectlak
-Multi-featured dynamic Select box based on TALL stack.
+# TALL-selectlak
+Multi-featured dynamic Select input based on TALL stack.
+
+### 🚧 Under development
